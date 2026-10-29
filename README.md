@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Mario 👋
 
-<!--
-**magallon25/magallon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo a programar en lenguaje C y GitHub
+- 🎯 Mi meta es lograr construir mi empresa desde cero y estar feliz con mi familia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis Intereses
+- 1.- graduarme de mi carrera
+- 2.- seguir vivo
+- 3.- cumplir mis metas poco a poco
+
+📫 **Contacto:** magallon@ucol.mx## Hi there 👋
